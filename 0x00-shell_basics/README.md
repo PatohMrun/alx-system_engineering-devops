@@ -9,3 +9,4 @@
 8-firstdelete deletes betty
 9-firstdirdeletion removes the my_first_directory
 10-back navigates to the previous folder
+11-lists lists 3 dir in long format
