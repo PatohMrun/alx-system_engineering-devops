@@ -6,3 +6,4 @@
 5-listfilesdigitonly lists files in long format with group IDs in numeric format
 6-firstdirectory creates the dir in the /tmp dir
 7-movethatfile moves betty to a different folder
+8-firstdelete deletes betty
