@@ -4,3 +4,4 @@
 3-listfiles lists files in long format
 4-listmorefiles Lists all format files in long format
 5-listfilesdigitonly lists files in long format with group IDs in numeric format
+6-firstdirectory creates the dir in the /tmp dir
