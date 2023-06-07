@@ -13,3 +13,4 @@
 12-file_type shows the type of the file
 13-symbolic_link points to another file
 14-copy_html copies new versions of html doc to the parent dir
+100-lets_move will move all files starting with caps to /tmp/u
