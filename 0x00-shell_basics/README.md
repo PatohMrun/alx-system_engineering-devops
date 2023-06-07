@@ -11,3 +11,4 @@
 10-back navigates to the previous folder
 11-lists lists 3 dir in long format
 12-file_type shows the type of the file
+13-symbolic_link points to another file
