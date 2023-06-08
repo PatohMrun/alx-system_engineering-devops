@@ -15,3 +15,4 @@
 14-copy_html copies new versions of html doc to the parent dir
 100-lets_move will move all files starting with caps to /tmp/u
 101-clean_emacs removes ~ files
+102-tree will create the 3 nested dir
