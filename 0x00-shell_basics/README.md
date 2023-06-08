@@ -16,3 +16,4 @@
 100-lets_move will move all files starting with caps to /tmp/u
 101-clean_emacs removes ~ files
 102-tree will create the 3 nested dir
+103-commas will list files separated by comma
