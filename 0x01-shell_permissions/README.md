@@ -7,3 +7,4 @@
 6-multiple_permissions will give permissions to different users
 7-everybody gives everyone the execute permision
 8-James_Bond sets all permissons for others only
+9-John_Doe sets permissions as -rwxr-x-wx
