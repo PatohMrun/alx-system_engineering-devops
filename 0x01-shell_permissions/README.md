@@ -8,3 +8,4 @@
 7-everybody gives everyone the execute permision
 8-James_Bond sets all permissons for others only
 9-John_Doe sets permissions as -rwxr-x-wx
+10-mirror_permissions mirrors file permissions
