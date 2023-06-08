@@ -9,3 +9,4 @@
 8-James_Bond sets all permissons for others only
 9-John_Doe sets permissions as -rwxr-x-wx
 10-mirror_permissions mirrors file permissions
+11-directories_permissions sets execution permissions for all, this applies to subdirectories
