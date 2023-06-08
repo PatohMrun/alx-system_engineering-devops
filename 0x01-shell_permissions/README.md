@@ -13,3 +13,4 @@
 12-directory_permissions sets 751 permission to created dir
 13-change_group changes the group of hello
 100-change_owner_and_group changes owner and group of files and  directories
+101-symbolic_link_permissions changes ownership of symbolic link file
