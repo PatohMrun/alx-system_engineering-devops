@@ -6,3 +6,4 @@
 5-firstlines displays the first 10 lines of a file
 6-third_line prints the 3rd line of a file
 7-file creates a file named \*\'Best School\'\*$\?\*\*\*\*\*:)
+8-cwd_state saves the state of working directory to a file
