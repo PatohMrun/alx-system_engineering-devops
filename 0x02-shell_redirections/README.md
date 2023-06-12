@@ -18,3 +18,4 @@ displays lines containing roots and 3 lines after them
 17-hidethisword prints files that dont have bin
 18-letteronly displays lines with letters only at the beginning
 19-AZ replaces characters
+20-hiago removes c and C from input
