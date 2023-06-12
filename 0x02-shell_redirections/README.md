@@ -14,3 +14,4 @@
 13-unique prints the unique words
 14-findthatword prints lines containing root
 15-countthatword prints the number of lines containing bin
+displays lines containing roots and 3 lines after them
