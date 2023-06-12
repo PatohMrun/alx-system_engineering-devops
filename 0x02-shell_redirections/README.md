@@ -10,3 +10,4 @@
 9-duplicate_last_line duplicates the last line of a file
 10-no_more_js removes all regular .js files recursively
 11-directories prints total no. of dir and sub directories
+12-newest_files prints 10 newest files
