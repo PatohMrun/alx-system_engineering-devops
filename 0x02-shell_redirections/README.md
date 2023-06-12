@@ -20,3 +20,4 @@ displays lines containing roots and 3 lines after them
 19-AZ replaces characters
 20-hiago removes c and C from input
 21-reverse reverses input
+22-users_and_homes prints users and their home dir
