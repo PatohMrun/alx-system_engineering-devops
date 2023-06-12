@@ -12,3 +12,4 @@
 11-directories prints total no. of dir and sub directories
 12-newest_files prints 10 newest files
 13-unique prints the unique words
+14-findthatword prints lines containing root
