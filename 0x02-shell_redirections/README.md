@@ -13,3 +13,4 @@
 12-newest_files prints 10 newest files
 13-unique prints the unique words
 14-findthatword prints lines containing root
+15-countthatword prints the number of lines containing bin
