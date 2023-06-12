@@ -8,3 +8,4 @@
 7-file creates a file named \*\'Best School\'\*$\?\*\*\*\*\*:)
 8-cwd_state saves the state of working directory to a file
 9-duplicate_last_line duplicates the last line of a file
+10-no_more_js removes all regular .js files recursively
