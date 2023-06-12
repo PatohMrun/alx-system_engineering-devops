@@ -4,3 +4,4 @@
 3-twofiles concatenates 2 files
 4-lastlines prints the last 10 lines of a file
 5-firstlines displays the first 10 lines of a file
+6-third_line prints the 3rd line of a file
