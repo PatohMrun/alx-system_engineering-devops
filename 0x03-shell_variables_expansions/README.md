@@ -4,3 +4,4 @@
 3-paths prints the number of directories in path
 4-global_variables prints environment variables
 5-local_variables lists local and environment variables and functions
+6-create_local_variable creates a new local variable
