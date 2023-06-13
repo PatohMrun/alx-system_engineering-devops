@@ -3,3 +3,4 @@
 2-path adds the action folder to path
 3-paths prints the number of directories in path
 4-global_variables prints environment variables
+5-local_variables lists local and environment variables and functions
