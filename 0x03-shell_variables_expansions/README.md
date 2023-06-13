@@ -8,3 +8,4 @@
 7-create_global_variable creates a new global variable
 8-true_knowledge prints the value of 128 added tu env var
 9-divide_and_rule divides power by divide
+10-love_exponent_breath prints breath to the power of love
