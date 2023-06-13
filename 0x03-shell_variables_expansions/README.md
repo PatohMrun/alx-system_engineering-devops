@@ -14,3 +14,4 @@
 13-print_float prints a number with two decimal places
 100-decimal_to_hexadecimal converts decimal to hexadecimal
 101-rot13 encodes and decodes text
+102-odd prints line from input
