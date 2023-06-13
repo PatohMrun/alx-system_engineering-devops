@@ -10,3 +10,4 @@
 9-divide_and_rule divides power by divide
 10-love_exponent_breath prints breath to the power of love
 11-binary_to_decimal converts binary to decimal
+12-combinations prints all combinations of 2 letters
